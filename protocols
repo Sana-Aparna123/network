@@ -1,0 +1,35 @@
+Networking protocols :
+-------------------------
+*ARP-Address reolution of protocol:it maps the ipaddress to mac address or mac address to ipaddress.(mapping)
+ipadress-indicates network
+mac--inidcates sytem
+
+*SLIP-Serial Line Internet Protocol:sequence of characters to form packet id done by SLIP.that packets is sent over the network from source to destination.(packet forming)
+
+*IPV4-the complete routing of packet from source to destination is done by IPV4.(Routing)
+
+*ICMP-Internet Control Message Protocol:(N/W devices used ICMP to send error messages or any conditions)
+
+*RPC-Remote Procedural Call(helps to connect with another device)
+
+*DHCP-Dynamic Host Configutration Protocol(Distributing ip address to newly added system in a network).--UDP ports-67,68
+
+*DNS-Domain Name System(converting url or domain names to ip address).-default port-53
+
+*FTP-File tRansfer Protocol(File sharing between devices).port no--20 or 21
+
+*HTTP-Hypertext transfer protocol(connect to client with server or communicating with browser to server)
+
+*IMAP-Internet MEssage Access Protocol(Email protocol,used to Access/Manipulate the emails,Retrieve emails from mailservers)--retrieve email
+
+*POP-Post Office Protcol(Email Protocol,Enables user to download emails from mailserver to client).--retrieve email
+
+*SMTP--Simple mail Transfer Protocol(Email Protocol,used to transfer emails from one user to another user).--transfer email--port no-25
+
+*Telnet--Enables admin to connect with any remote device with ip or hostname.--port no-23
+
+*SNMP-Simple Network Managing Protocol(It enables the admin to manage network performance,managing nodes).
+
+
+
+
